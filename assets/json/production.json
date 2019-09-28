@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "七星剣・真",
+    "baseWeapon": {
+      "name": "七星剣",
+      "requireLv": 100,
+      "requireSkillLv": 10
+    },
+    "materials": [
+      {
+        "itemId": 1,
+        "amount": 50
+      },
+      {
+        "itemId": 2,
+        "amount": 50
+      },
+      {
+        "itemId": 3,
+        "amount": 50
+      },
+      {
+        "itemId": 4,
+        "amount": 50
+      },
+      {
+        "itemId": 5,
+        "amount": 50
+      },
+      {
+        "itemId": 6,
+        "amount": 100
+      }
+    ]
+  }
+]

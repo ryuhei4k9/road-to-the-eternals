@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1>シエテを仲間にする</h1>
     <div>
       <h2>天星器・真の作成</h2>
       <div>

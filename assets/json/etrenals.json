@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "ウーノ",
+    "elements": "水"
+  },
+  {
+    "id": 2,
+    "name": "ソーン",
+    "elements": "光"
+  },
+  {
+    "id": 3,
+    "name": "サラーサ",
+    "elements": "土"
+  },
+  {
+    "id": 4,
+    "name": "カトル",
+    "elements": "水"
+  },
+  {
+    "id": 5,
+    "name": "フュンフ",
+    "elements": "光"
+  },
+  {
+    "id": 6,
+    "name": "シス",
+    "elements": "闇"
+  },
+  {
+    "id": 7,
+    "name": "シエテ",
+    "elements": "風"
+  },
+  {
+    "id": 8,
+    "name": "オクトー",
+    "elements": "土"
+  },
+  {
+    "id": 9,
+    "name": "ニオ",
+    "elements": "風"
+  },
+  {
+    "id": 10,
+    "name": "エッセル",
+    "elements": "火"
+  }
+]
